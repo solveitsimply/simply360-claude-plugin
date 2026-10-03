@@ -1,0 +1,24 @@
+{
+  "name": "simply360",
+  "displayName": "Simply360",
+  "version": "0.1.0",
+  "description": "Explore authorized Simply360 Teams and Collections, inspect readable fields, and search record names and summaries.",
+  "author": {
+    "name": "Simply360",
+    "url": "https://simply360.app"
+  },
+  "homepage": "https://simply360.app",
+  "documentationUrl": "https://github.com/solveitsimply/simply360-claude-plugin#readme",
+  "supportUrl": "https://simply360.app/contact",
+  "privacyPolicyUrl": "https://simply360.app/privacy-and-policy",
+  "termsOfServiceUrl": "https://simply360.app/terms-of-use",
+  "icon": "./assets/icon.png",
+  "license": "Proprietary",
+  "keywords": [
+    "nonprofit",
+    "teams",
+    "collections",
+    "records"
+  ],
+  "repository": "https://github.com/solveitsimply/simply360-claude-plugin"
+}
