@@ -1,8 +1,8 @@
 {
   "name": "simply360",
   "displayName": "Simply360",
-  "version": "0.1.1",
-  "description": "Explore authorized Simply360 Teams and Collections, inspect readable fields, and search record names and summaries.",
+  "version": "0.1.2",
+  "description": "Flexible management software",
   "author": {
     "name": "Simply360",
     "url": "https://simply360.app"
