@@ -2,7 +2,7 @@
   "mcpServers": {
     "simply360": {
       "type": "http",
-      "url": "https://api.simply360.app/v1/mcp?toolCatalog=directory"
+      "url": "https://api.simply360.app/v1/mcp/directory"
     }
   }
 }
