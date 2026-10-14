@@ -16,9 +16,9 @@ Results depend on your account permissions. Report only results returned by Simp
 
 ## Setup and troubleshooting
 
-Once the hosted directory endpoint is deployed, you can test it by adding a custom connector in Claude’s Connectors settings with URL `https://api.simply360.app/v1/mcp/directory`. Sign in with Simply Login, complete your account’s MFA challenge, choose an authorized Team, and approve the requested read permissions. No API key is needed.
+Connect your existing Simply360 account when prompted by Claude. For a custom connector, add `https://api.simply360.app/v1/mcp/directory` in Claude’s Connectors settings. Sign in with Simply Login, complete any authentication challenge shown for your account, choose a Team you are authorized to access, and approve the requested read permissions. No API key is needed.
 
-If sign-in does not finish, reconnect and complete the consent screen. If a Team or Collection is missing, check your Simply360 membership and read permissions. Empty search results may mean that no readable record name matches the search term. Revoke the connection under Simply360 User Account > Connected Apps.
+If sign-in does not finish, reconnect and complete the Simply Login flow and any challenge it presents. If a Team or Collection is missing, check your Simply360 membership and read permissions. Empty search results may mean that no readable record name matches the search term. Revoke the connection under Simply360 User Account > Connected Apps.
 
 The selected AI provider receives OAuth credentials and the requested tool results to operate the connection. Record names and summaries may contain personal information; connect only information you are authorized to share with the provider. See the privacy policy for Simply360’s retention and the provider’s own practices.
 
