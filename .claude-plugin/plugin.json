@@ -1,8 +1,8 @@
 {
   "name": "simply360",
   "displayName": "Simply360",
-  "version": "0.1.3",
-  "description": "Flexible management software",
+  "version": "0.2.0",
+  "description": "Read and manage Simply360 records, workflows, forms, websites, files, reports and Team configuration with your account permissions.",
   "author": {
     "name": "Simply360",
     "url": "https://simply360.app"
