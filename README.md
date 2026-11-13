@@ -1,6 +1,6 @@
 # Simply360
 
-Connect your existing Simply360 account to read permitted record fields, create and update records, and manage supported workflows, forms, websites, files, reports and Team configuration. Each operation is an individually described tool. Your selected Team, enabled features, current permissions and approved OAuth scopes determine access. Reviewed proposals and sensitive-action confirmations remain in place.
+Connect your existing Simply360 account to read permitted record fields, create and update records, and manage supported workflows, forms, websites, files, reports and Team configuration. Each operation is an individually described tool. Your selected Team, enabled features, current permissions and approved OAuth scopes determine access. Reviewed proposals and sensitive-action confirmations remain in place. This listing doesn't move money or generate images with AI. To use payments, refunds, billing plan changes, automation runs and AI image generation from Claude, add Simply360 as a custom connector with the address shown under Link your own AI in the Simply360 user menu.
 
 Sign in with Simply Login when prompted. Approve read and write scopes for your intended Team. Reconnect an older read-only grant to approve additional scopes; existing grants are never silently expanded. Revoke access in Simply360 User Account > Connected Apps.
 
